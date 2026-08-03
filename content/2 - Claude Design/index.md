@@ -1,6 +1,6 @@
 
 En este bloque abordamos [Claude Design](https://claude.com/product/design), una herramienta a la cual tienes acceso si ya cuentas con un plan de Claude que incluya Claude Code (al menos así es a día de hoy). 
-El contenido de este bloque es una breve introducción a la herramienta, ya que Claude Design amerita tener su propio curso
+El contenido de este bloque es una breve introducción a la herramienta, ya que Claude Design amerita tener su propio curso.
 La inspiración de añadir esta herramienta al curso nos llegó después de ver [este video](https://youtu.be/j1oJi1Pfobs?si=zpeh0DpX44U2x9vc).
 El objetivo de este bloque es que sepas que esta herramienta existe y que es perfecta para evitar los diseños de interfaces genéricos que la IA genera.
 

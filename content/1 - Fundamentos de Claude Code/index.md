@@ -1,7 +1,7 @@
 
-Este bloque es un tutorial guiado en el que construimos un proyecto desde cero con Claude Code a través de prompts.
+Este bloque es un tutorial guiado en el que construimos un proyecto desde cero con Claude Code a través de prompts. Puedes ver el proyecto terminado [aquí](https://github.com/AleksPrz/linkstash).
 Durante el tutorial introducimos los conceptos básicos necesarios para poder empezar a utilizar Claude Code para crear proyectos desde cero.
-La instalación de Claude Code no entra en el alcance de este tutorial, para eso recomendamos [la guía oficial de Inicio Rápido](https://code.claude.com/docs/es/quickstart). Para este tutorial estaremos usando Claude Code en la terminal.
+La instalación de Claude Code no entra en el alcance de este tutorial, para eso recomendamos [la guía oficial de Inicio Rápido](https://code.claude.com/docs/es/quickstart). Para este tutorial estaremos usando Claude Code en la terminal. 
 
 ---
 # Índice
@@ -311,6 +311,7 @@ Para más detalles sobre la estructura del CLAUDE.md: [[Recomendaciones CLAUDE.m
 
 # Recursos
 
+- [Proyecto Linkstash](https://github.com/AleksPrz/linkstash)
 - [Historia de Claude Code](https://www.anthropic.com/features/making-of-claude-code)
 - [Agent Loop](https://code.claude.com/docs/en/agent-sdk/agent-loop)
 - [Claude Code: Session Management](https://claude.com/blog/using-claude-code-session-management-and-1m-context)
