@@ -1,1 +1,2 @@
-
+Aqui veremos como escribir requerimientos y pasárselos a claude code
+Aún en proceso...
