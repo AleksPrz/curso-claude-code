@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: example.github.io
+  baseUrl: AleksPrz.github.io/curso-claude-code
   ignorePatterns:
     - private
     - templates
