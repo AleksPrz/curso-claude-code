@@ -1,4 +1,4 @@
-# Objetivo
+
 Este bloque es un tutorial guiado en el que construimos un proyecto desde cero con Claude Code a través de prompts.
 Durante el tutorial introducimos los conceptos básicos necesarios para poder empezar a utilizar Claude Code para crear proyectos desde cero.
 La instalación de Claude Code no entra en el alcance de este tutorial, para eso recomendamos [la guía oficial de Inicio Rápido](https://code.claude.com/docs/es/quickstart). Para este tutorial estaremos usando Claude Code en la terminal.

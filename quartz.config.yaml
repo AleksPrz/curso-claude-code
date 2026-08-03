@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: es-ES
   baseUrl: AleksPrz.github.io/curso-claude-code
   ignorePatterns:
     - private
