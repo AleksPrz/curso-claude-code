@@ -36,6 +36,8 @@ Sin embargo te recomendamos la siguiente alternativa, si bien no funcionará de 
 # Recursos generales
 
 - [Diapositivas del curso](https://docs.google.com/presentation/d/1XVXJ9Uzdho1wwUApI8_lcU85WbBz1PJJNNp9FzdUByI/edit?usp=sharing)
+- [Repositorio Proyecto Bloque 1](https://github.com/AleksPrz/linkstash)
+- [Repositorio Proyecto Bloque 3](https://github.com/AleksPrz/reservas-fdi)
 - [Cursos de Anthropic](https://anthropic.skilljar.com/)
 - [Documentación oficial de Claude Code](https://code.claude.com/docs)
 - [Guía de inicio rápido](https://code.claude.com/docs/es/quickstart)
