@@ -64,6 +64,7 @@ El sistema debe permitir que los usuarios inicien sesión según su rol. Los adm
 Se debe implementar un calendario interactivo que muestre las reservas existentes y verificará la disponibilidad de los espacios. Además, el sistema debe enviar un correo electrónico de confirmación al crear una reserva y otro como recordatorio 24 horas antes del evento
 ```
 <br>
+
 ### Paso 1: Plan
 En este paso debemos entender el problema que se quiere resolver. Es importante identificar el alcance del proyecto, nuestros recursos, plazos y responsables.
 - **Problema**: La facultad necesita una forma organizada de gestionar la reservación de sus espacios.
@@ -72,6 +73,7 @@ En este paso debemos entender el problema que se quiere resolver. Es importante 
 - **Funcionalidades clave**: Autenticación con roles, gestión de espacios, calendario interactivo, validación de conflictos y envío de correos.
 - **Restricción de negocio**: Las modificaciones solo se pueden hacer hasta 1 día antes de la fecha reservada.
 <br>
+
 ### Paso 2: Documento de especificación de requisitos
 Un **documento de especificación de requisitos** detalla exactamente lo que el sistema debe hacer para satisfacer las necesidades del usuario. Es la fuente de verdad del sistema.
 
